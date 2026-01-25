@@ -11,19 +11,18 @@ I enjoy building apps, solving problems, and documenting my learning journey.
 - 🌱 Currently learning: **Flutter, Dart, Mobile App Development**  
 - 👯 Looking to collaborate on: **Flutter apps, e-commerce projects, open-source**  
 - 💬 Ask me about: **Flutter, Dart, C, Java, HTML/CSS/JS, Git & GitHub**   
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/babitakaphle01) | 
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/babitakaphle01) | [Instagram](https://www.instagram.com/__a.ris__/) 
 - ⚡ Fun fact:  **Coffee fuels my coding ☕ and I love turning ideas into apps!**
 
 ---
 ## Skills
-**Languages & Frameworks:** HTML, CSS, JS, C, Java, Dart, Flutter  
+**Languages & Frameworks:** HTML, CSS, JS, C,Dart, Flutter  
 **Tools & Software:** VS Code, Git, GitHub, Basic SQL  
 **Other:** Mobile App Development, Mini Projects, Learning by Practice   
 
 ---
 ## 🎨 Hobbies & Interests
 - 📚 Reading tech blogs and programming tutorials  
-- 🎮 Playing video games to relax  
 - ☕ Coffee & coding sessions  
 - 📝 Writing notes on learning and mini-projects  
 - 🎶 Listening to music while coding  
