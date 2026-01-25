@@ -1,8 +1,7 @@
-# Hi there 👋, I'm Babita Kaphle
+# Hi there 👋, I'm Babita
 
-💻 **BSc CSIT Student | Aspiring Flutter Developer | IT Intern**  
-📍 Kathmandu, Nepal  
-
+💻 **BSc CSIT Student | Aspiring Flutter Developer**  
+📍 Kathmandu, Nepal | ☕ Coffee-fueled coder  
 ---
 
 ## 🌱 About Me
@@ -18,16 +17,9 @@ I enjoy building apps, solving problems, and documenting my learning journey.
 ---
 
 ## Skills
-- **Languages:** HTML, CSS, JavaScript, C, Java, Dart (learning)  
-- **Frameworks & Tools:** Flutter (beginner), Visual Studio Code, Git, GitHub  
-- **Database:** Basic SQL  
-- **Productivity Software:** MS Word, Google Docs  
-
----
-
-## Education
-**BSc Computer Science and Information Technology (BSc CSIT)**  
-TU Affiliated Colleges: Bhairahawa Multiple Campus | Bhairahawa Namuna Campus | Samata Shiksha Niketan  
+**Languages & Frameworks:** HTML, CSS, JS, C, Java, Dart, Flutter  
+**Tools & Software:** VS Code, Git, GitHub, Basic SQL  
+**Other:** Mobile App Development, Mini Projects, Learning by Practice   
 
 ---
 
@@ -40,7 +32,8 @@ TU Affiliated Colleges: Bhairahawa Multiple Campus | Bhairahawa Namuna Campus | 
 
 ---
 ## 📈 GitHub Stats
-![Babita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BabiKaphle&show_icons=true&theme=radical&count_private=true)  
+
+![Babita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BabiKaphle&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BabiKaphle&layout=compact&theme=radical)
 
