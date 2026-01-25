@@ -30,13 +30,13 @@ I enjoy building apps, solving problems, and documenting my learning journey.
 
 ---
 ## 📈 GitHub Stats
-![Babita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BabiKaphle&show_icons=true&theme=radical)
+![Babita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bobbykafle&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BabiKaphle&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bobbykafle&layout=compact&theme=radical)
 
 ---
 ## 📝 Fun Projects (Teasers)
 - **Login UI App** – Flutter login & form validation   
 - **E-commerce Project** – Currently developing 🛒 
-- **Mini Projects & Practice Code** – On my [GitHub](https://github.com/BabiKaphle)  
+- **Mini Projects & Practice Code** – On my [GitHub](https://github.com/bobbykafle)  
 
