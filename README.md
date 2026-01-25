@@ -15,14 +15,12 @@ I enjoy building apps, solving problems, and documenting my learning journey.
 - ⚡ Fun fact:  **Coffee fuels my coding ☕ and I love turning ideas into apps!**
 
 ---
-
 ## Skills
 **Languages & Frameworks:** HTML, CSS, JS, C, Java, Dart, Flutter  
 **Tools & Software:** VS Code, Git, GitHub, Basic SQL  
 **Other:** Mobile App Development, Mini Projects, Learning by Practice   
 
 ---
-
 ## 🎨 Hobbies & Interests
 - 📚 Reading tech blogs and programming tutorials  
 - 🎮 Playing video games to relax  
@@ -32,13 +30,11 @@ I enjoy building apps, solving problems, and documenting my learning journey.
 
 ---
 ## 📈 GitHub Stats
-
 ![Babita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BabiKaphle&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BabiKaphle&layout=compact&theme=radical)
 
 ---
-
 ## 📝 Fun Projects (Teasers)
 - **Login UI App** – Flutter login & form validation   
 - **E-commerce Project** – Currently developing 🛒 
