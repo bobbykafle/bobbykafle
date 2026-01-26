@@ -2,35 +2,36 @@
 
 💻 CS Graduate | Flutter Developer
 ☕ Turning coffee into Flutter apps and bugs into features 🐞🚀
+😎 Also known for writing code that sometimes fixes itself (just kidding… or am I?)
 
 ---
 
 ## 🌱 About Me
 
-I'm a passionate **CS Graduate** focused on **Flutter & mobile app development**. I enjoy building apps, solving problems, and documenting my learning journey.
+I’m a quirky **CS Graduate** who loves Flutter and turning wild ideas into real apps. I live for solving problems, learning new tricks, and sometimes arguing with my own bugs. 😅
 
 * 🌱 Currently learning: **Flutter, Dart, Mobile App Development**
-* 👯 Looking to collaborate on: **Flutter apps, e-commerce projects, open-source**
+* 👯 Looking to collaborate on: **fun Flutter apps, e-commerce projects, open-source adventures**
 * 💬 Ask me about: **Flutter, Dart, C, Java, HTML/CSS/JS, Git & GitHub**
-* 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/babitakaphle01) | [Instagram](https://www.instagram.com/__a.ris__/)
-* ⚡ Fun fact: **Coffee fuels my coding ☕ and I love turning ideas into apps!**
+* 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/babitakaphle01) | [Instagram](https://www.instagram.com/__a.ris__/)
+* ⚡ Fun fact: **I write code fueled by coffee ☕ and sometimes magic ✨**
 
 ---
 
 ## 🎨 Hobbies & Interests
 
-* 📚 Reading tech blogs and programming tutorials
-* ☕ Coffee & coding sessions
-* 📝 Writing notes on learning and mini-projects
-* 🎶 Listening to music while coding
+* 📚 Reading tech blogs and experimenting with code hacks
+* ☕ Coffee & coding marathons
+* 🎶 Jamming to music while debugging
+* 📝 Documenting mini-projects and crazy ideas
 
 ---
 
-## 📝 Fun Projects (Teasers)
+## 📝 Fun Projects
 
-* **Login UI App** – Flutter login & form validation
-* **E-commerce Project** – Currently developing 🛒
-* **Mini Projects & Practice Code** – On my [GitHub](https://github.com/bobbykafle)
+* **Login UI App** – Flutter login & form validation 🗝️
+* **E-commerce Project** – Shopping cart chaos in progress 🛒
+* **Mini Projects & Practice Code** – My playground of experiments on [GitHub](https://github.com/bobbykafle)
 
 ---
 
@@ -39,11 +40,3 @@ I'm a passionate **CS Graduate** focused on **Flutter & mobile app development**
 ![Babita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bobbykafle\&show_icons=true\&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bobbykafle\&layout=compact\&theme=radical)
-
-
----
-## 📝 Fun Projects (Teasers)
-- **Login UI App** – Flutter login & form validation   
-- **E-commerce Project** – Currently developing 🛒 
-- **Mini Projects & Practice Code** – On my [GitHub](https://github.com/bobbykafle)  
-
