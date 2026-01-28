@@ -37,6 +37,6 @@ I’m a quirky **CS Graduate** who loves Flutter and turning wild ideas into rea
 
 ## 📈 GitHub Stats
 
-[![bobby's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=bobby&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/bobby/github-readme-stats#gh-dark-mode-only)
-[![bobby's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=bobby&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/bobby/github-readme-stats#gh-dark-mode-only)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bobbykafle&show_icons=true&include_all_commits=true&count_private=true)
+
 
