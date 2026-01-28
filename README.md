@@ -36,7 +36,6 @@ I’m a quirky **CS Graduate** who loves Flutter and turning wild ideas into rea
 ---
 
 ## 📈 GitHub Stats
-
 ![GitHub Metrics](https://github.com/bobbykafle/bobbykafle/blob/main/github-metrics.svg)
 
 
