@@ -1,31 +1,20 @@
-name: GitHub Metrics
+
+name: GitHub Stats
 
 on:
   schedule:
-    - cron: "0 * * * *" # runs every hour
+    - cron: "0 0 * * *" # every day
   workflow_dispatch:
 
 jobs:
-  metrics:
+  build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-
-      - name: Generate metrics
-        uses: lowlighter/metrics@latest
+      - name: Generate GitHub Stats
+        uses: anuraghazra/github-readme-stats@v0.2.0
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          user: bobbykafle
-          template: classic
-          base: header, activity, repositories
-          plugin_languages: yes
-          plugin_commits: yes
-          output: github-metrics.svg
-
-      - name: Commit and push
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add github-metrics.svg
-          git commit -m "Update GitHub metrics"
-          git push
+          username: bobbykafle
+          include_all_commits: true
+          count_private: true
+          token: ${{ secrets.GH_TOKEN }}
