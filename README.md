@@ -35,7 +35,11 @@ I’m a quirky **CS Graduate** who loves Flutter and turning wild ideas into rea
 
 ---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bobbykafle&layout=compact&theme=radical)
+
+
+
+
+
 
 
 
