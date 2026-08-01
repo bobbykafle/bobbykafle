@@ -55,8 +55,9 @@ My focus is on writing clean, maintainable code, collaborating effectively, and 
   <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bobbykafle&theme=tokyonight" />
 </p>
 
-<p align="center"> <img height="160" src="https://streak-stats.demolab.com?user=bobbykafle&theme=tokyonight&hide_border=true"/>
-  <img height="160" src="https://github-readme-activity-graph.vercel.app/graph?username=bobbykafle&theme=tokyo-night&hide_border=true" /></p>
+<p align="center">
+  <img height="140" src="https://streak-stats.demolab.com?user=bobbykafle&theme=tokyonight&hide_border=true"/>
+  <img height="140" src="https://github-readme-activity-graph.vercel.app/graph?username=bobbykafle&theme=tokyo-night&hide_border=true" /></p>
 
 
 ## 🧠 Developer Traits
