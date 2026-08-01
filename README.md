@@ -1,11 +1,13 @@
-# Hi there 👋, I'm Babita
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
+  Welcome to My GitHub Profile!
+</h1>
 
-💻 CS Graduate | Flutter Developer
-☕ Turning coffee into Flutter apps and bugs into features 🐞🚀
-😎 Also known for writing code that sometimes fixes itself (just kidding… or am I?)
+<h2 align="center">I'm Babita Kaphle</h2>
 
----
-
+<h3 align="center">
+Flutter Developer • Mobile Application Developer • BSc CSIT Graduate
+</h3>
 ## 🌱 About Me
 
 I’m a quirky **CS Graduate** who loves Flutter and turning wild ideas into real apps. I live for solving problems, learning new tricks, and sometimes arguing with my own bugs. 😅
