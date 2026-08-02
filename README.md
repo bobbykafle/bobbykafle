@@ -1,8 +1,10 @@
 <h5><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">Welcome to My Digital Workspace</h5>
 
 <h2 align="center">Babita Kaphle</h2>
-
-<h3 align="center">Crafting Modern Mobile Experiences with Flutter</h3>
+<h3 align="center">
+Flutter Developer • Mobile App Developer
+</h3>
+<h4 align="center">Crafting Modern Mobile Experiences with Flutter</h4>
 
 <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&width=950&lines=Building+Scalable+Mobile+Applications;Flutter+%7C+Dart+%7C+Firebase;Bloc+%7C+GetX+%7C+Provider;REST+API+Integration+%7C+SQLite;Clean+Architecture+Enthusiast;Responsive+UI%2FUX+Development;Open+Source+Learner;Always+Learning+%E2%80%A2+Always+Building"alt="Typing SVG"/></p>
 
@@ -27,7 +29,7 @@ My focus is on writing clean, maintainable code, collaborating effectively, and 
 </p>
 
 ## 👨‍💻 About Me
-- 🎓 BSc CSIT Graduate
+- 🎯 Passionate about building apps that are clean, scalable, and enjoyable to use.
 - 💙 Flutter Developer passionate about building scalable cross-platform applications
 - 🔥 Completed Flutter Internship at NDH Tech
 - 📱 Experienced with Flutter, Firebase, REST APIs, SQLite & Hive
@@ -35,7 +37,7 @@ My focus is on writing clean, maintainable code, collaborating effectively, and 
 - 🌍 Open to Flutter Developer opportunities and open-source collaboration
 
 
-## 🧾 Featured Projects
+## 🧾 Featured Work
 | Project             | Description                                                                    |
 | ------------------- | ------------------------------------------------------------------------------ |
 | 🛒 E-Commerce       | Production-style Flutter application using Bloc, Firebase & Clean Architecture |
@@ -72,7 +74,7 @@ My focus is on writing clean, maintainable code, collaborating effectively, and 
 To build scalable, high-performance mobile applications that solve real-world problems while continuously growing as a Flutter engineer and contributing to impactful products.
 
 
-## ⚡ Quick Facts
+## ⚡ Outside the IDE
 
 - 📍 Based in Nepal 🇳🇵
 - 💼 Flutter Developer
@@ -82,7 +84,7 @@ To build scalable, high-performance mobile applications that solve real-world pr
 - ⚡ My favorite keyboard shortcut is Ctrl + Z.
 
 
-## ☕ Developer Status
+## ☕ Current System Status
 
 ```text
 ☕ Coffee        ████████████ 100%
@@ -121,5 +123,7 @@ I appreciate you taking the time to explore my GitHub profile.<br><br>
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
-
+<p align="center">
+🚀 <b>Building today, improving tomorrow, and always learning.</b>
+</p>
 
