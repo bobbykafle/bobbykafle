@@ -62,7 +62,6 @@ My focus is on writing clean, maintainable code, collaborating effectively, and 
 ## 🎯 Career Goal
 To build scalable, high-performance mobile applications that solve real-world problems while continuously growing as a Flutter engineer and contributing to impactful products.
 
-<h2>📈 GitHub Analytics</h2>
 
 <h2>📈 GitHub Analytics</h2>
 
