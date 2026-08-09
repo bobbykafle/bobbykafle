@@ -1,4 +1,4 @@
-<h5><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">Welcome to My Digital Workspace</h5>
+<h4><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">Welcome to My Digital Workspace</h4>
 
 <h2 align="center">Babita Kaphle</h2>
 <h3 align="center">
