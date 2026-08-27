@@ -1,6 +1,8 @@
 <h4><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Welcome to My Digital Workspace</h4>
 
-<h2 align="center">Babita Kaphle</h2>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=050f2c&height=80&section=header&text=Babita%20Kaphle&fontSize=34&fontColor=00aeff&animation=fadeIn" width="100%" alt="Header Banner" />
+</p>
 <h3 align="center">Flutter Developer • Mobile App Developer</h3>
 <h4 align="center">Crafting Modern Mobile Experiences with Flutter</h4>
 
@@ -61,37 +63,34 @@ My focus is on writing clean, maintainable code, collaborating effectively, and 
 ## 📈 GitHub Analytics
 
 
-<p align="center">
-  <a href="https://github.com/bobbykafle">
-    <img src="https://streak-stats.demolab.com/?user=bobbykafle&theme=dark&background=050F2C&ring=00AEFF&fire=00AEFF&currStreakNum=00AEFF&sideNums=00AEFF&currStreakLabel=00AEFF&sideLabels=00AEFF&dates=FFFFFF&hide_border=true" alt="GitHub Streak"/>
-  </a>
-</p>
 
 <p align="center">
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img height="195" src="./profile-summary-card-output/algolia/3-stats.svg" alt="Stats" />
+    <img height="120" src="./profile-summary-card-output/algolia/3-stats.svg" alt="Stats" />
   </a>
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img height="195" src="./profile-summary-card-output/algolia/1-repos-per-language.svg" alt="Repos Per Language" />
+    <img height="120" src="./profile-summary-card-output/algolia/1-repos-per-language.svg" alt="Repos Per Language" />
+  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img height="120" src="./profile-summary-card-output/algolia/2-most-commit-language.svg" alt="Most Commit Language" />
+  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img height="120" src="./profile-summary-card-output/algolia/4-productive-time.svg" alt="Productive Time" />
   </a>
 </p>
 
 
 
 <p align="center">
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img height="195" src="./profile-summary-card-output/algolia/2-most-commit-language.svg" alt="Most Commit Language" />
+    <a href="https://github.com/bobbykafle">
+    <img height="143" src="https://streak-stats.demolab.com/?user=bobbykafle&theme=dark&background=050F2C&ring=00AEFF&fire=00AEFF&currStreakNum=00AEFF&sideNums=00AEFF&currStreakLabel=00AEFF&sideLabels=00AEFF&dates=FFFFFF&hide_border=true" alt="GitHub Streak"/>
   </a>
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img height="195" src="./profile-summary-card-output/algolia/4-productive-time.svg" alt="Productive Time" />
+    <img width="50%" src="./profile-summary-card-output/algolia/0-profile-details.svg" alt="Profile Details" />
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="./profile-summary-card-output/algolia/0-profile-details.svg" alt="Profile Details" />
-  </a>
-</p>
+
 
 ---
 
@@ -107,3 +106,4 @@ My focus is on writing clean, maintainable code, collaborating effectively, and 
 ⭐ If you enjoy my work, consider following my journey.<br>
 🤝 Always open to collaboration, learning, and exciting opportunities.
 </p>
+
