@@ -60,6 +60,13 @@ My focus is on writing clean, maintainable code, collaborating effectively, and 
 
 ## 📈 GitHub Analytics
 
+
+<p align="center">
+  <a href="https://github.com/bobbykafle">
+    <img src="https://streak-stats.demolab.com/?user=bobbykafle&theme=dark&background=050F2C&ring=00AEFF&fire=00AEFF&currStreakNum=00AEFF&sideNums=00AEFF&currStreakLabel=00AEFF&sideLabels=00AEFF&dates=FFFFFF&hide_border=true" alt="GitHub Streak"/>
+  </a>
+</p>
+
 <p align="center">
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
     <img height="195" src="./profile-summary-card-output/algolia/3-stats.svg" alt="Stats" />
@@ -69,11 +76,7 @@ My focus is on writing clean, maintainable code, collaborating effectively, and 
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/bobbykafle">
-    <img src="https://streak-stats.demolab.com/?user=bobbykafle&theme=dark&background=050F2C&ring=00AEFF&fire=00AEFF&currStreakNum=00AEFF&sideNums=00AEFF&currStreakLabel=00AEFF&sideLabels=00AEFF&dates=FFFFFF&hide_border=true" alt="GitHub Streak"/>
-  </a>
-</p>
+
 
 <p align="center">
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
