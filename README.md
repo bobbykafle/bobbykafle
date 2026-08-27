@@ -80,11 +80,13 @@ My focus is on writing clean, maintainable code, collaborating effectively, and 
 </p>
 
 
-
 <p align="center">
-    <a href="https://github.com/bobbykafle">
-    <img height="143" src="https://streak-stats.demolab.com/?user=bobbykafle&theme=dark&background=050F2C&ring=00AEFF&fire=00AEFF&currStreakNum=00AEFF&sideNums=00AEFF&currStreakLabel=00AEFF&sideLabels=00AEFF&dates=FFFFFF&hide_border=true" alt="GitHub Streak"/>
+  <a href="https://github.com/bobbykafle">
+    <img height="100" src="https://streak-stats.demolab.com/?user=bobbykafle&theme=dark&hide_border=true" alt="GitHub Streak"/>
   </a>
+</p>
+<p align="center">
+  
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
     <img width="50%" src="./profile-summary-card-output/algolia/0-profile-details.svg" alt="Profile Details" />
   </a>
