@@ -99,7 +99,6 @@ My focus is on writing clean, maintainable code, collaborating effectively, and 
 <h3 align="center">Thanks for Visiting! 💙</h3>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=bobbykafle&style=for-the-badge"/>
 <img src="https://img.shields.io/github/followers/bobbykafle?style=for-the-badge"/>
 <img src="https://img.shields.io/github/stars/bobbykafle?style=for-the-badge"/>
 </p>
